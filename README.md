@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React, Angular, Blazor, .NET, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, GraphQL, PostgreSQL
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React, Angular, Blazor, ASP.NET Core, C#
-- 📫 How to reach me: ...
+- 📫 How to reach me: [baruasagar][LinkedIn]
 
   ## 🤝 Connect with me:
 
 [<img align="left" alt="baruasagar | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
 
 <br />
 <br />
