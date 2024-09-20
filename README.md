@@ -2,7 +2,7 @@
 
 ### Lead Engineer | Senior Software Developer | Team Leader | Passionate Programmer
 
-**orionsagar/orionsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**orionsagar/orionsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔧 Senior Software Developer & Team Leader with 9 years of experience in software development.
 - 💻 Skilled in .NET Core, ASP.NET, MVC, C#, AngularJS, and currently working on React projects, including browser extensions.
