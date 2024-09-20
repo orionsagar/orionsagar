@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React, Angular, Blazor, .NET, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, GraphQL, PostgreSQL
 - 💬 Ask me about React, Angular, Blazor, ASP.NET Core, C#
-- 📫 How to reach me: [baruasagar][LinkedIn]
+- 📫 How to reach me: [baruasagar][linkedIn]
 
   ## 🤝 Connect with me:
 
