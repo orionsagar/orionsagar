@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React, Angular, Blazor, .NET, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, GraphQL, PostgreSQL
 - 💬 Ask me about React, Angular, Blazor, ASP.NET Core, C#
-- 📫 How to reach me: [[baruasagar][linkedIn]](https://www.linkedin.com/in/baruasagar)
+- 📫 How to reach me: [[baruasagar]](https://www.linkedin.com/in/baruasagar)
 
   ## 🤝 Connect with me:
 
-[<img align="left" alt="baruasagar | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+<img align="left" alt="baruasagar | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <br />
 <br />
