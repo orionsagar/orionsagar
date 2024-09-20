@@ -1,7 +1,16 @@
-## Hi there 👋
+## Hi there !!! I am Sagar 👋
 
-<!--
+
 **orionsagar/orionsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🔧 Senior Software Developer & Team Leader with 9 years of experience in software development.
+💻 Skilled in .NET Core, ASP.NET, MVC, C#, AngularJS, and currently working on React projects, including browser extensions.
+🚀 Passionate about building efficient, scalable, and user-friendly applications.
+📚 Pursuing my Master's degree to stay updated with the latest trends in technology.
+👨‍👩‍👧 Proud husband and father.
+🌙 Night owl, coding late into the night.
+
+Feel free to connect and explore my repositories!
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
